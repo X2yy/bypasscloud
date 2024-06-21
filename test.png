@@ -1,0 +1,2 @@
+<!-- Salve isso como xss_payload.png -->
+<img src="x" onerror="console.log('XSS detectado');" />
